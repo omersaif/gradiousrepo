@@ -1,5 +1,5 @@
 //Write a function in your name
 
-function ganga(){
-	console.log('This is Ganga');
+function Omer(){
+	console.log('This is Omer01');
 }
